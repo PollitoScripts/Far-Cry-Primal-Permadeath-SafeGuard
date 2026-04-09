@@ -5,7 +5,6 @@ Este es un script sencillo en formato `.bat` diseñado para evitar la pérdida t
 
 ## 🚀 Cómo funciona
 El script monitorea tu carpeta local de guardados de Ubisoft y realiza una copia en una carpeta de tu escritorio. Si mueres en el juego y el sistema borra tu partida, simplemente puedes restaurar la última copia de seguridad.
-![Demo del Script](preview.png)
 
 ## 🛠️ Instalación y Configuración
 
@@ -20,6 +19,7 @@ El script monitorea tu carpeta local de guardados de Ubisoft y realiza una copia
 1. Ejecuta `Rescate.bat` **antes** de abrir el juego.
 2. Mantén la ventana negra abierta mientras juegas.
 3. El script imprimirá un mensaje confirmando cada copia realizada con éxito.
+![Demo del Script](preview.png)
 
 ## 💀 Cómo restaurar una partida tras morir
 1. Cierra el juego completamente.
